@@ -15,7 +15,7 @@ export default {
 			themes: {
 				preset: [
 					{
-						name: 'wintry',
+						name: 'skeleton',
 						enhancements: true,
 					},
 				],
