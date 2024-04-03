@@ -1,6 +1,6 @@
 <div class="container mx-auto p-8 space-y-8">
     <div class="max-w-3xl mx-auto">
-        <h1 class="h1 text-center">Save McCallum Park's Basketball Culture</h1>
+        <h1 class="h1 text-center">Save McCallum Park</h1>
         <p class="text-center">
             McCallum Park is more than just a basketball court; it's a hub of incredible culture and community. Many people, after a long day at work, arrive at the park around 5:30-6:00 PM to enjoy a game of basketball with friends and fellow enthusiasts. However, the recent changes to the park's lighting schedule have dealt a significant blow to this vibrant community.
         </p>
